@@ -8,7 +8,7 @@ jobs:
     # «Раннер» — создание изолированного окружения с последней версией Ubuntu 
     runs-on: ubuntu-latest
 
-    steps:s
+    steps:
     # Запуск actions checkout — готового скрипта 
     # для клонирования репозитория
     - uses: actions/checkout@v2
